@@ -1,0 +1,8 @@
+{
+    "eslint.alwaysShowStatus": true,
+    "eslint.lintTask.enable": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": false,
+    "eslint.format.enable": true,
+    "editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
+}

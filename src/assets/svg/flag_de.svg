@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="34px" height="20px" viewBox="0 0 34 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>germany</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="34" height="20"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Artboard-2" sketch:type="MSArtboardGroup" transform="translate(-418.000000, -40.000000)">
+            <g id="germany" sketch:type="MSLayerGroup" transform="translate(418.000000, 40.000000)">
+                <mask id="mask-2" sketch:name="Rectangle 2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Rectangle-2" fill="#333333" sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
+                <rect id="Rectangle-25" fill="#FFDB52" sketch:type="MSShapeGroup" mask="url(#mask-2)" x="0" y="13.5" width="34" height="6.50000001"></rect>
+                <rect id="Rectangle-26" fill="#F86262" sketch:type="MSShapeGroup" mask="url(#mask-2)" x="0" y="7" width="34" height="6.50000001"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,8 @@
+# Ignore artifacts:
+build
+coverage
+kirby
+vendor
+.vscode
+composer.json
+composer.lock
