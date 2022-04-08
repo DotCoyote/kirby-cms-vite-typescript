@@ -29,3 +29,7 @@ site/plugins/*
 !/storage/sessions/.gitkeep
 
 /site/config/.license
+
+# IDE
+.idea
+.vscode
